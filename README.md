@@ -2,14 +2,14 @@ FeelinG(Cockroach Game)
 ====
 FeelinGは、プレイヤーがゴキブリ目線となって、ゴキブリを体感できることを目的として作ったゲームです。ゲーム内のフィールドをゴキブリ並みのスピードで自由自在に動くことができます。
 
-### Usage
 このゲームはUnityによって作られています  
-[Unity] [https://unity.com/]
+[Unity]: (https://unity.com/)
 ## Description
 
 ### インストール
-[Unity Install] [https://unity3d.com/jp/get-unity/download/archive]  
-こちらのページからUnity 5.6.xをインストールしてください。
+下記のページから`Unity 5.6.x`をインストールしてください。
+[Unity Install] [https://unity3d.com/jp/get-unity/download/archive]
+
 
 ### 起動
 MainもしくはTitleの実行ファイルをクリックして頂くと、ゲーム実行されます。
