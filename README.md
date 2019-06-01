@@ -15,8 +15,9 @@ FeelinGは、プレイヤーがゴキブリ目線となって、ゴキブリを�
 MainもしくはTitleの実行ファイルをクリックして頂くと、ゲーム実行されます。
 
 ### 操作
-**走る**：'w'  
-**ゲーム終了** : '停止ボタン'
+**走る**：`w` 
+**ゲーム終了** : `停止ボタン`
+
 
 ## Demo
 <!--![2](https://user-images.githubusercontent.com/20881545/58742289-9ac67380-845e-11e9-96e8-6d6650462898.jpg)
@@ -33,7 +34,6 @@ MainもしくはTitleの実行ファイルをクリックして頂くと、ゲ�
 [MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
 
 ## Author
-Nakayama Yutaro - (https://github.com/NakayamaYutaro) 
+Nakayama Yutaro - (https://github.com/NakayamaYutaro)   
 Oriishi Takahiro - (https://github.com/OriishiTakahiro)
 
-[tcnksm](https://github.com/tcnksm)
